@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f73d1ba-9a8c-4a8e-95f0-8f47432a7cf3" name="Changes" comment="-" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2UI72HEbVFAshcp7FwHeuqbJJ9F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Belwerk/Glyu/Concurrency",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="ConditionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.ConditionsExample" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task1" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task2" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task3" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task4" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.ConditionsExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f73d1ba-9a8c-4a8e-95f0-8f47432a7cf3" name="Changes" comment="" />
+      <created>1692615032192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692615032192</updated>
+      <workItem from="1692615033190" duration="298000" />
+      <workItem from="1692615375627" duration="667000" />
+      <workItem from="1692616168825" duration="2000" />
+      <workItem from="1692616366306" duration="4304000" />
+      <workItem from="1692627626538" duration="342000" />
+      <workItem from="1692631725250" duration="2733000" />
+      <workItem from="1692635648206" duration="1895000" />
+      <workItem from="1692638159610" duration="1081000" />
+      <workItem from="1692639254853" duration="3000" />
+      <workItem from="1692650985624" duration="2963000" />
+      <workItem from="1692698961040" duration="1791000" />
+      <workItem from="1692773952789" duration="1614000" />
+      <workItem from="1692782596183" duration="7090000" />
+      <workItem from="1692794568920" duration="1344000" />
+      <workItem from="1692801416775" duration="8221000" />
+      <workItem from="1692816551539" duration="92000" />
+      <workItem from="1692816655776" duration="49000" />
+    </task>
+    <task id="LOCAL-00001" summary="-">
+      <option name="closed" value="true" />
+      <created>1692816560627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692816560627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
+  </component>
+</project>
