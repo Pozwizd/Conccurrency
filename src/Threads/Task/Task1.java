@@ -1,4 +1,4 @@
-package Task;
+package Threads.Task;
 
 public class Task1 {
     private static final Object monitor = new Object();

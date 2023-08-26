@@ -2,7 +2,7 @@ package Threads;
 
 class CreateThreads {
     public static void main(String[] args) throws InterruptedException {
-        System.out.println("Hello world!" + Thread.currentThread().getName());
+        System.out.println("Hello world! " + Thread.currentThread().getName());
 
 //        MyThread myThread = new MyThread();
 //        myThread.start();

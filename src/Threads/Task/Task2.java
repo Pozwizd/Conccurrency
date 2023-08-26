@@ -1,4 +1,4 @@
-package Task;
+package Threads.Task;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,11 +11,17 @@ public class Task2 {
     private static List<String> users = new ArrayList<>();
 
     public static void main(String[] args) {
-        users.add("Alice");
-        users.add("Bob");
-        users.add("Charlie");
-        users.add("Dave");
-        users.add("Eve");
+        users.add("Аліса");
+        users.add("Олександр");
+        users.add("Юрій");
+        users.add("Віталій");
+        users.add("Михаил");
+        users.add("Марія");
+        users.add("Іван");
+        users.add("Ірина");
+        users.add("Марк");
+        users.add("Світлана");
+
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите номер пользователя: ");

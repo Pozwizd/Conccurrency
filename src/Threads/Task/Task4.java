@@ -1,4 +1,4 @@
-package Task;
+package Threads.Task;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

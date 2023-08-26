@@ -1,4 +1,4 @@
-package Task;
+package Threads.Task;
 
 import java.util.*;
 import java.util.concurrent.*;

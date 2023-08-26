@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f73d1ba-9a8c-4a8e-95f0-8f47432a7cf3" name="Changes" comment="-" />
+    <list default="true" id="2f73d1ba-9a8c-4a8e-95f0-8f47432a7cf3" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Task/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/CreateThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/CreateThreads.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,29 +51,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Belwerk/Glyu/Concurrency",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Belwerk/Glyu/Concurrency&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task3">
-    <configuration name="ConditionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.ConditionsExample" />
+}</component>
+  <component name="RunManager" selected="Application.Threads.Task.Example4">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.Task.Example3" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.*" />
+          <option name="PATTERN" value="Threads.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Task1" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Task.Example4" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Streams.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Task2" />
+    <configuration name="Streams.Task.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Task.Task2" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Streams.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Task3" />
+    <configuration name="Streams.Task.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Task.Task3" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Streams.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Task4" />
+    <configuration name="Threads.Task.Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.Task.Example4" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.*" />
+          <option name="PATTERN" value="Threads.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ConditionsExample" />
+        <item itemvalue="Application.Threads.Task.Example4" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Streams.Task.Task3" />
+        <item itemvalue="Application.Streams.Task.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +168,15 @@
       <workItem from="1692801416775" duration="8221000" />
       <workItem from="1692816551539" duration="92000" />
       <workItem from="1692816655776" duration="49000" />
+      <workItem from="1692820764610" duration="27000" />
+      <workItem from="1692820796880" duration="17000" />
+      <workItem from="1692821059656" duration="35000" />
+      <workItem from="1692822218268" duration="5399000" />
+      <workItem from="1692869967699" duration="47000" />
+      <workItem from="1692873155317" duration="3453000" />
+      <workItem from="1692911264928" duration="8434000" />
+      <workItem from="1692973886340" duration="323000" />
+      <workItem from="1692982574253" duration="19268000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <option name="closed" value="true" />
