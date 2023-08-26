@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f73d1ba-9a8c-4a8e-95f0-8f47432a7cf3" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Task/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Task/Example5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/CreateThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/CreateThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Task/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Task/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/Task/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +51,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Threads.Task.Example4">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.Task.Example3" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="SemaphoreExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.SemaphoreExample" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.Task.Task1" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Task.Example4" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.Task.Task2" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Task.*" />
+          <option name="PATTERN" value="Threads.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams.Task.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Task.Task2" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.Task.Task4" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Streams.Task.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Task.Task3" />
-      <module name="Concurrency" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Streams.Task.*" />
+          <option name="PATTERN" value="Threads.Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.SemaphoreExample" />
         <item itemvalue="Application.Threads.Task.Example4" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Streams.Task.Task3" />
-        <item itemvalue="Application.Streams.Task.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +161,8 @@
       <workItem from="1692911264928" duration="8434000" />
       <workItem from="1692973886340" duration="323000" />
       <workItem from="1692982574253" duration="19268000" />
+      <workItem from="1693033561348" duration="3417000" />
+      <workItem from="1693037265741" duration="2780000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <option name="closed" value="true" />

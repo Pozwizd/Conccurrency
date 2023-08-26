@@ -49,9 +49,7 @@ public class Task4 {
 
         results.sort(Comparator.comparingInt(r -> r.time));
 
-        for (Result r : results) {
-            System.out.println(r.carId + " - " + r.time);
-        }
+        results.stream().map(r -> r.carId + " - " + r.time).forEach(x -> System.out.println(x));
     }
 
     static class Car implements Runnable  {
@@ -91,6 +89,7 @@ public class Task4 {
             try {
                 startLatch.await();
             } catch (Exception e) {
+                e.printStackTrace();
             }
 
             try {

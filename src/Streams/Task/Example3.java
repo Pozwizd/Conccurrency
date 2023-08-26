@@ -10,7 +10,7 @@ public class Example3 {
 
         List<String> filteredNames = names.stream()
                 .filter(name -> name.length() <= 4)  // Промежуточный оператор
-                .map(String::toUpperCase)  // Промежуточный оператор
+                .map(s -> s.toUpperCase())  // Промежуточный оператор
                 .collect(Collectors.toList());  // Терминальный оператор
 
         System.out.println(filteredNames);
