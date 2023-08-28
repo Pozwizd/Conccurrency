@@ -54,9 +54,9 @@ public class Example {
     }
 }
 
-//interface StudentCheck {
-//    boolean check(Student s);
-//}
+interface StudentCheck {
+    boolean check(Student s);
+}
 //class CheckOverGrade implements StudentCheck {
 //    @Override
 //    public boolean check(Student s) {

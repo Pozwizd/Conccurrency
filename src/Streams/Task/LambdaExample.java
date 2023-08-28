@@ -1,4 +1,4 @@
-package Lambda;
+package Streams.Task;
 
 import java.util.ArrayList;
 import java.util.Collections;

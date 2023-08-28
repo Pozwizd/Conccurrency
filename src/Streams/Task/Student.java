@@ -1,4 +1,4 @@
-package Lambda;
+package Streams.Task;
 
 public class Student {
     String name;
