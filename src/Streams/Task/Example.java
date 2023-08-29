@@ -55,7 +55,7 @@ public class Example {
 }
 
 interface StudentCheck {
-    boolean check(Student s);
+    boolean check(Student2 s);
 }
 //class CheckOverGrade implements StudentCheck {
 //    @Override
@@ -64,7 +64,7 @@ interface StudentCheck {
 //    }
 //}
 
-class Student {
+class Student2 {
     String name;
     char sex;
 
@@ -72,7 +72,7 @@ class Student {
     int course;
     double avgGrade;
 
-    public Student(String name, char sex, int age, int course, double avgGrade) {
+    public Student2(String name, char sex, int age, int course, double avgGrade) {
         this.name = name;
         this.sex = sex;
         this.age = age;

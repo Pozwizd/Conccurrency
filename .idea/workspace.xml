@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f73d1ba-9a8c-4a8e-95f0-8f47432a7cf3" name="Changes" comment="-">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/LambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Task/LambdaExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Task/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Streams/Task/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Task/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/Task/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Task/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.Threads.Task.Task3">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Threads.Task.Task1" />
       <module name="Concurrency" />
@@ -119,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Threads.Task.Task3" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task3" />
@@ -166,6 +166,11 @@
       <workItem from="1693046578333" duration="6000" />
       <workItem from="1693117640706" duration="681000" />
       <workItem from="1693219046522" duration="15000" />
+      <workItem from="1693240699436" duration="1248000" />
+      <workItem from="1693244643263" duration="59000" />
+      <workItem from="1693244725057" duration="740000" />
+      <workItem from="1693293789142" duration="720000" />
+      <workItem from="1693297593661" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <option name="closed" value="true" />

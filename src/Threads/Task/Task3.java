@@ -2,26 +2,21 @@ package Threads.Task;
 
 import java.util.*;
 import java.util.concurrent.*;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class Task3 {
-    private static Set<Integer> numbers = new HashSet<>();
-    private static Set<Integer> synchroNumbers = Collections.synchronizedSet(numbers);
+    private static List<Integer> numbers = new ArrayList<>();
+    private static AtomicInteger atomicInteger = new AtomicInteger();
 
     public static void main(String[] args) throws InterruptedException {
         ExecutorService executorService = Executors.newFixedThreadPool(2);
 
         Runnable task1 = () -> {
-            for (int i = 1; i <= 10000; i++) {
-                synchroNumbers.add(i);
-                System.out.println("Поток 1 добавил элемент: " + i);
-            }
+            addElement();
         };
 
         Runnable task2 = () -> {
-            for (int i = 10001; i <= 20000; i++) {
-                synchroNumbers.add(i);
-                System.out.println("Поток 2 добавил элемент: " + i);
-            }
+            addElement();
         };
 
         executorService.submit(task1);
@@ -30,7 +25,16 @@ public class Task3 {
         executorService.shutdown();
         executorService.awaitTermination(10, TimeUnit.SECONDS);
 
-        System.out.println("Размер коллекции: " + synchroNumbers.size());
-        System.out.println(synchroNumbers.toString());
+        System.out.println("Размер коллекции: " + numbers.size());
+
     }
+
+    public static synchronized void addElement(){
+        for (int i = 1; i <= 10000; i++) {
+
+            numbers.add(atomicInteger.incrementAndGet());
+            System.out.println(Thread.currentThread().getName() + " поток добавил " + atomicInteger);
+        }
+    }
+
 }
